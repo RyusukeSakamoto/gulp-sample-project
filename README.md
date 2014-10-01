@@ -4,6 +4,7 @@ gulp-sample-project
 # How to use
 
 $ npm install
+
 $ gulp watch
 
 
